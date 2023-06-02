@@ -17,11 +17,11 @@ Education
 
 Work experience
 ======
-* Simulation Engineer, AutoX Technologies, Inc., Haidian, Beijing, China, Aug 2020 - Now
+* Simulation Engineer, AutoX, Beijing, China, 2020/08 - Now
 
-* Senior Software Engineer, Li Auto Inc.(LI), Chaoyang, Beijing, China, Apr 2020 - Aug 2020
+* Senior Software Engineer, Li Auto Inc.(LI), Beijing, China, 2020/04 - 2020/08
 
-* Software Engineer, Momenta Technology Co., Ltd., Haidian, Beijing, China, July 2018 - Apr 2020
+* Software Engineer, Momenta, Beijing, China, 2018/06 - 2020/04
 
 Publications
 ======
