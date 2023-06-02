@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.ch/citations?user=07u7sz8AAAAJ"
   email            : "xuguoxi1993@gmail.com"
   researchgate     :
-  uri              :
+  uri              : "http://guoxixu.space/"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -182,17 +182,6 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -200,15 +189,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+
 
 # Sass/SCSS
 sass:
