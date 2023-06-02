@@ -173,10 +173,6 @@ kramdown:
   enable_coderay: false
 
 
-# Collections
-collections:
-
-
 # Defaults
 defaults:
   # _pages
