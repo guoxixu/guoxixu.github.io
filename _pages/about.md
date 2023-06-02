@@ -23,4 +23,4 @@ Even before that, I received my Bachelor's degree in <a href="https://www.chemen
 <a href="http://scholars.chemeng.tsinghua.edu.cn/Yan/" rel="nofollow">Prof. Li-Tang Yan</a>.
 
 For more information and my publications, please read my <a href="http://guoxixu.space/cv/" rel="nofollow">CV</a>.
-I am open to possible research cooperations. If you are interested, please contact me by <a href="mailto:xuguoxi1993@gmail.com rel="nofollow">Email</a>.
+If you are interested in possible cooperations, please contact me by <a href="mailto:xuguoxi1993@gmail.com">Email</a>.
