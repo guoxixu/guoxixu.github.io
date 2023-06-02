@@ -15,9 +15,12 @@ the development of planning, controlling and simulation modules for self-driving
 
 I received my Master's degree in <a href="https://mse.stanford.edu/" rel="nofollow">Materials Science and Engineering</a> 
 from <a href="https://www.stanford.edu/" rel="nofollow">Stanford University</a>(2018), worked on 
-the simulation and theoretical properties of polymers, and advised by <a href="https://cheme.stanford.edu/people/jian-qin" rel="nofollow">Prof. Jian Qin</a>.
+the simulation and theoretical properties of polymers, advised by <a href="https://cheme.stanford.edu/people/jian-qin" rel="nofollow">Prof. Jian Qin</a>.
 Prior to that, I received my Master's degree in <a href="https://chemistry.berkeley.edu/cbe/" rel="nofollow">Chemical Engineering</a> 
 from <a href="https://www.berkeley.edu/" rel="nofollow">University of California, Berkeley</a>(2016).
 Even before that, I received my Bachelor's degree in <a href="https://www.chemeng.tsinghua.edu.cn/" rel="nofollow">Chemical Engineering</a> from 
 <a href="https://www.tsinghua.edu.cn/" rel="nofollow">Tsinghua University</a>(2015), advised by 
 <a href="http://scholars.chemeng.tsinghua.edu.cn/Yan/" rel="nofollow">Prof. Li-Tang Yan</a>.
+
+For more information and my publications, please read my <a href="http://guoxixu.space/cv/" rel="nofollow">CV</a>.
+I am open to possible research cooperations. If you are interested, please contact me by <a href="mailto:xuguoxi1993@gmail.com rel="nofollow">Email</a>.
