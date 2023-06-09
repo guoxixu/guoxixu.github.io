@@ -12,14 +12,14 @@ redirect_from:
 Education
 ======
 
-* M.S. in Materials Science and Engineering, Stanford University, CA, US, 2018
-* M.S. in Chemical Engineering, University of California Berkeley, CA, US, 2016
-* B.S. in Chemical Engineering, Tsinghua University, Beijing, China , 2015
+* M.S. in Materials Science and Engineering, Stanford University, CA, US, 2018/06
+* M.S. in Chemical Engineering, University of California Berkeley, CA, US, 2016/05
+* B.S. in Chemical Engineering, Tsinghua University, Beijing, China, 2015/07
 
 Work experience
 ======
 
-* Simulation Engineer, AutoX, Beijing, China, 2020/08 - Now
+* Simulation Engineer, AutoX, Beijing, China, 2020/08 - 2021/12
 
 * Senior Software Engineer, Li Auto Inc.(LI), Beijing, China, 2020/04 - 2020/08
 
@@ -43,4 +43,4 @@ Publications
 Skills
 ======
 
-C/C++, Python, Java, Matlab, Linux, Git, LaTeX.
+C/C++, Python, Java, Matlab, R, SQL, Linux, Git, LaTeX.
