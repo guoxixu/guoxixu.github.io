@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm Guoxi Xu, a simulation engineer in <a href="https://www.autox.ai/" rel="nofollow">AutoX</a>.
-Previously, I worked in <a href="https://www.lixiang.com/" rel="nofollow">Li Auto Inc.(LI)</a> and 
+I'm Guoxi Xu, a staff algorithm engineer in <a href="https://www.amap.com/" rel="nofollow">AMAP</a>(Alibaba Inc.).
+Previously, I worked in <a href="https://www.autox.ai/" rel="nofollow">AutoX</a>, 
+<a href="https://www.lixiang.com/" rel="nofollow">Li Auto Inc.(LI)</a> and 
 <a href="https://www.momenta.ai/" rel="nofollow">Momenta</a>, all as software engineer which focus on 
 the development of planning, controlling and simulation modules for self-driving cars.
 
