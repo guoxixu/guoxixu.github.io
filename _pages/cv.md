@@ -19,6 +19,8 @@ Education
 Work experience
 ======
 
+* Staff Algorithm Engineer, AMAP(AutoNavi, Alibaba Inc.), Beijing, China, 2021/12 - Current
+
 * Simulation Engineer, AutoX, Beijing, China, 2020/08 - 2021/12
 
 * Senior Software Engineer, Li Auto Inc.(LI), Beijing, China, 2020/04 - 2020/08
@@ -43,4 +45,4 @@ Publications
 Skills
 ======
 
-C/C++, Python, Java, Matlab, R, SQL, Linux, Git, LaTeX.
+C/C++, Python, Java, Go, Matlab, R, SQL, Linux, LaTeX.
