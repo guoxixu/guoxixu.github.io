@@ -32,7 +32,7 @@ Publications
 
 [6] <b>Xu, G.</b>, Sun, Z., Liu, H., Zhou, Y., Gong, X., & Gong, S. (2022). Identification of ground effect and intelligent control of unmanned aerial vehicles. Aerospace Science and Technology, 131, 107976.
 
-[5] <b>Xu, G.</b>, & Qin, J. (2018). Segmental Dynamics Revealed from All-atom Simulations of Concatenated Polyethylene Rings. In APS March Meeting Abstracts (Vol. 2018, pp. L60-070).
+[5] <b>Xu, G.</b>, & Qin, J. (2018). Segmental Dynamics Revealed from All-atom Simulations of Concatenated Polyethylene Rings. APS March Meeting Abstracts (Vol. 2018, pp. L60-070).
 
 [4] Gustafson, K. S., <b>Xu, G.</b>, Freed, K. F., & Qin, J. (2017). Image method for electrostatic energy of polarizable dipolar spheres. The Journal of Chemical Physics, 147(6), 064908.
 
